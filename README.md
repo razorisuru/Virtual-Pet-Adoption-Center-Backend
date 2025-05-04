@@ -47,7 +47,7 @@ npm run dev
 
 4. Open your postaman and navigate to:
 ```
-http://localhost:500/api
+http://localhost:5000/api
 ```
 
 ## API Endpoints
